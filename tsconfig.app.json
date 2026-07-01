@@ -19,6 +19,7 @@
     "paths": {
       "~/*": ["./*"]
     },
+    "resolveJsonModule": true,
 
     /* Linting */
     "strict": true,
