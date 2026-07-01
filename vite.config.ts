@@ -6,7 +6,7 @@ import { defineConfig } from "vite";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-  base: "./",
+  base: "/INFINITE-OWN-GALLERY/",
   plugins: [
     react({
       babel: {
